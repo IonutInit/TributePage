@@ -1,0 +1,14 @@
+/* Copy and paste your CSS from CodePen into here */
+h1 {
+    text-align: centre;
+  }
+   
+   
+   #image {
+     display: block;
+    margin-left: 0;
+    margin-right: auto;
+     max-width: 30%;
+     height: auto;
+   }
+  
