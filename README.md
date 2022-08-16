@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README - Learning Journey step 7
 
 ## 7.2 - Your Tribute Page
@@ -23,6 +22,4 @@ You will now be using git and vscode to:
 Follow the guide [HERE](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 Make sure that the deployed branch is `main` in settings.
-=======
-# TributePage
->>>>>>> 929e854f56f8670f51c155e46d79f8cf511653ae
+
